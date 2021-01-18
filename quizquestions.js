@@ -85,20 +85,6 @@ questions = [
         }
     },
     {
-        "question": "Society was better in the past.",
-        "i18n": {
-        },
-        "effect": {
-            "a": -5,
-            "b": 0,
-            "c": 0,
-            "d": 0,
-            "e": 0,
-            "f": 0,
-            "g": 0
-        }
-    },
-    {
         "question": "The French Revolution should not have happened.",
         "i18n": {
         },

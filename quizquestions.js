@@ -42,6 +42,90 @@ questions = [
             "g": 0
         }
     },
+    {
+        "question": "Changing society over time is the best way for a society to function.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Tradition only holds back society.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Abortion is a basic human right.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Society was better in the past.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "The French Revolution should not have happened.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "The industrial revolution and its consequences have been a disaster for the human race..",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
 //Equality vs Markets
     {
         "question": "Capitalism is an unjust system.",

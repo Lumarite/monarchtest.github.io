@@ -162,52 +162,52 @@ div.text-wrapper {
     display: inline-block;
 }
 div.reform {
-    background-color: #0c5199;
+    background-color: #9c27b0;
     text-align: left;
     border-right-style: solid;
 }
 div.preserve {
-    background-color: #42c2f5;
+    background-color: #8bc34a;
     text-align: right;
     border-left-style: solid;
 }
 div.stateown {
-    background-color: #174f8a;
+    background-color: #8bc34a;
     text-align: left;
     border-right-style: solid;
 }
 div.market {
-    background-color: #c7c406;
+    background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
 div.central {
-    background-color: #9403fc;
+    background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
 div.decentral {
-    background-color: #1fa3c4;
+    background-color: #9c27b0;
     text-align: left;
     border-right-style: solid;
 }
 div.world {
-    background-color: #90bcd6;
+    background-color: #8a7ebe;
     text-align: right;
     border-left-style: solid;
 }
 div.nation {
-    background-color: #7F3300;
+    background-color: #79a8d8;
     text-align: left;
     border-right-style: solid;
 }
 div.religious {
-    background-color: #d48817;
+    background-color: #03a9f4;
     text-align: left;
     border-right-style: solid;
 }
 div.secular {
-    background-color: #d1ccae;
+    background-color: #ff9800;
     text-align: right;
     border-left-style: solid;
 }
@@ -217,12 +217,12 @@ div.economy {
     border-right-style: solid;
 }
 div.nature {
-    background-color: #c4b631;
+    background-color: #ff7400;
     text-align: right;
     border-left-style: solid;
 }
 div.race {
-    background-color: #27577A;
+    background-color: #074ff5;
     text-align: left;
     border-right-style: solid;
 }

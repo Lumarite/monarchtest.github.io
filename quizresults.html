@@ -73,6 +73,10 @@
 </div>
 <h2><span class="weight-300" id="g-label"></span></h2>
 <div class="axis">
+    <img id="img-race" src="value_images/race.png" height="128pt"/>
+    <div class="bar race" id="bar-race"><div class="text-wrapper" id="race"></div></div>
+    <div class="bar equality" id="bar-equality"><div class="text-wrapper" id="equality"></div></div>
+    <img id="img-equality" src="value_images/equality.png" height="128pt"/>
 </div>
 <br><br>
 <h1>Ideologies:</h1>
@@ -143,12 +147,14 @@
     world  = getQueryVariable("d")
 	religious  = getQueryVariable("e")
 	economy  = getQueryVariable("f")
+	race  = getQueryVariable("g")
     preserve    = (100 - reform).toFixed(1)
     market     = (100 - stateown   ).toFixed(1)
     decentral = (100 - central ).toFixed(1)
     nation = (100 - world).toFixed(1)
 	secular = (100 - religious).toFixed(1)
 	nature = (100 - economy).toFixed(1)
+	equality = (100 - race).toFixed(1)
 
     setBarValue("reform", reform)
     setBarValue("preserve", preserve)
@@ -162,6 +168,8 @@
     setBarValue("secular", secular)
 	setBarValue("economy", economy)
     setBarValue("nature", nature)
+	setBarValue("race", race)
+    setBarValue("equality", equality)
 
     document.getElementById("a-label").innerHTML = setLabel(reform, i18n.getString("result-a-label"))
     document.getElementById("b-label").innerHTML = setLabel(stateown, i18n.getString("result-b-label"))
